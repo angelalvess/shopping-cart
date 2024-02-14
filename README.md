@@ -9,7 +9,7 @@ Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite
 - Adição de produtos ao carrinho: permite adicionar produtos ao carrinho de compras.
 - Remoção de produtos do carrinho: possibilita remover produtos do carrinho de compras.
 
-##   Tecnologias utilizadas
+##  💻 Tecnologias utilizadas
 
 - React JS: biblioteca JavaScript para construção de interfaces de usuário.
 - HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.

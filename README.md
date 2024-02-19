@@ -13,7 +13,7 @@ Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite
 ##  💻 Tecnologias utilizadas
 
  React JS: biblioteca JavaScript para construção de interfaces de usuário
- HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.
+ HTML5: linguagem de marcação para estruturar o conteúdo da aplicação
  CSS3: linguagem de estilo para estilizar a interface do usuário.
  API do Mercado Livre: utilizada para obter dados de produtos.
   

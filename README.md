@@ -1,19 +1,18 @@
 
-##  🛒  Carrinho de Compras com React JS
+##  🛒  Shopping Cart with React JS
 
-Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite listar produtos na tela, buscar produtos consumindo a API do Mercado Livre, adicionar produtos e remover produtos do carrinho.
+This is a shopping cart project developed with React JS. It allows you to list products on the screen, search for products using the Mercado Livre API, add products and remove products from the cart.
 
-##  💻 Funcionalidades
+## 💻 Features
 
- Listagem de produtos: exibe uma lista de produtos obtidos da API do Mercado Livre
- Busca de produtos: permite pesquisar produtos com base em palavras-chave, consumindo a API do Mercado Livre para obter os resultados
- Adição de produtos ao carrinho: permite adicionar produtos ao carrinho de compras
- Remoção de produtos do carrinho: possibilita remover produtos do carrinho de compras.
+ Product listing: displays a list of products obtained from the Mercado Livre API
+ Product search: allows you to search for products based on keywords, consuming the Mercado Livre API to obtain the results
+ Adding products to cart: allows you to add products to the shopping cart
+ Removing products from the cart: allows you to remove products from the shopping cart.
 
-##  💻 Tecnologias utilizadas
+## 💻 Technologies used
 
- React JS: biblioteca JavaScript para construção de interfaces de usuário
- HTML5: linguagem de marcação para estruturar o conteúdo da aplicação
- CSS3: linguagem de estilo para estilizar a interface do usuário
- API do Mercado Livre: utilizada para obter dados de produtos.
-  
+ React JS: JavaScript library for building user interfaces
+ HTML5: markup language to structure application content
+ CSS3: Styling language for styling the user interface
+ Mercado Livre API: used to obtain product data.
